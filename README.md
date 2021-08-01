@@ -24,3 +24,18 @@ Tools: Pandas, Numpy, Matplotlib.pyplot, Seaborn, Socrata <br><br>
 
 Language: Python <br>
 Tools: Pandas, Numpy, Matplotlib.pyplot, Seaborn, Socrata, Skitlearn
+
+
+[Project 3: 2016 presidential candidates spending](https://github.com/ChantieSophia/2016-president-candidates-spending.git)<br>
+* data wrangling by adding back Party data for each candidate<br>
+Before - missing canndidate party data in column Paty, wrong data format in column dist_dt
+<img src="./before.PNG" alt = 'before'>
+After - anndidate party data, data format corrected
+<img src="./after.PNG" alt = 'after'>
+
+* table transformation: added rolling total and rank columns
+<img src="./windows-functions.PNG">
+<br>
+Language: Python, SQL<br>
+Tools: pandsql, googlesearch<br><br>
+
