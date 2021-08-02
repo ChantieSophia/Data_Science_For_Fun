@@ -1,4 +1,4 @@
-Utilize Data Science to feed your curiosity
+Utilize Data Science to feed the curiosity<br><br>
 [Project 1: Santa Clara County Workforce](https://github.com/ChantieSophia/scc-employee)<br><br>
 Language: Python <br>
 Tools: Pandas, Numpy, Matplotlib.pyplot, Seaborn, Socrata <br><br>
