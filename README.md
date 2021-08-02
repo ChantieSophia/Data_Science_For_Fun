@@ -1,7 +1,3 @@
-# Projects
-
-
-
 [Project 1: Santa Clara County Workforce](https://github.com/ChantieSophia/scc-employee)<br><br>
 Language: Python <br>
 Tools: Pandas, Numpy, Matplotlib.pyplot, Seaborn, Socrata <br><br>
