@@ -14,8 +14,8 @@ Tools: Pandas, Numpy, Matplotlib.pyplot, Seaborn, Socrata, Skitlearn<br><br>
 * Overall trend for the number of crime reports is going down since 2020.<br>
 * Different type of crime reports have different distribution over the day. For total cases of all types, the number of crime reports goes up starts from 5-6 in the morning and flutuates a little and starts going down from 8-9 in the evening.<br>
 * The regression model I built is 78% acurate in prediction. There is a lot room to improve the accuracy by introducing more variables, for instance, the type of the crime report, etc,, which we will cover in future project.<br><br>
-<img src="./overall-trend.PNG" width="600" height ="221" > <img src="./count-by-hours.PNG" width="312" height ="231">
-<img src="./count-by-hour-type.PNG" width="1088" height ="434">
+<img src="./overall-trend.PNG" width="600" height ="221" align="left"> <img src="./count-by-hours.PNG" width="312" height ="231" align="left">
+<img src="./count-by-hour-type.PNG" width="1088" height ="434" align="left">
 
 
 [Project 3: 2016 presidential candidates spending](https://github.com/ChantieSophia/2016-president-candidates-spending.git)<br><br>
