@@ -6,8 +6,8 @@ Tools: Pandas, Numpy, Matplotlib.pyplot, Seaborn, Socrata <br><br>
 * Among all the job categories, professionals, administrative support, protective service workers and technicians are the biggest groups. Asian employees dominiate professionals and Technicians job categories while, Hispanic employees dominate in job categories of Administrative Support and Protective Service Workers.<br>
 * In all the departments, most of the Asian employees work in Santa Clara Valley Med Center, same as Hispanic and White employee. Compared with Asian and White employees, there is a higher percentage of Hispanic employees work in the social services agency.<br>
 * As the results of Chi-square test, both results are significant, meaning there are associations between ethnicity and job cateogry and department respectively. However since the categories may not be completely independent from each other which violates the assumptions, we can not draw the conclusions that the association is actually there.<br><br>
-<img src="./Top_3_employee_groups.png" width="300" height="180"> <br>
-<img src="./Employee_count_in_job_category.png" width="450" height="270"> <img src="./employee_count_in_department.png" width="450" height="270">
+<img src="./Top_3_employee_groups.png"> <br>
+<img src="./Employee_count_in_job_category.png" width="600" height="404"> <img src="./employee_count_in_department.png" width="600" height="404">
 
 [Project 2: Santa Clara County Crime Reports](https://github.com/ChantieSophia/scc-crime-reports)<br><br>
 Language: Python <br>
