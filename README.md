@@ -1,10 +1,13 @@
 Utilize Data Science to feed the curiosity<br><br>
-[Project 2: Water potability prediction](https://www.kaggle.com/chsoph/task-water-potability-prediction-66-accuracy)<br><br>
+[Project 1: Water potability prediction](https://www.kaggle.com/chsoph/task-water-potability-prediction-66-accuracy)<br><br>
 Language: Python <br>
-Tools: Sklearn, Scipy.stats, Seaborn, Matplotlib.pyplot, Seaborn<br><br>
+Tools: Sklearn, Scipy.stats, Seaborn, Matplotlib.pyplot, Seaborn<br>
 * Used two sampled t-test to test the mean of all the features, and correlation matrix to make sure all featurs are independent
-<img src="./water-pred--corr-mtrix.PNG" width="400" height ="400"> <br>
+
+<img src="./water-pred--corr-mtrix.PNG"> <br>
+
 * Developed a classification model to predict water potability, accuracy 66% <br>
+
 <img src="./water-pred-model-comparison.PNG"> <br>
 <img src="./water-pred-classification-results.PNG"> <br><br>
 
